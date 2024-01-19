@@ -8,11 +8,14 @@ form {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 8px;
+  margin-top: 13%; 
+
 }
 
 label {
   display: block;
   margin-bottom: 8px;
+
 }
 
 input,
